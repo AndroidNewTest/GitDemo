@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         mTextView = this.findViewById(R.id.text_view);
-        mTextView.setText("9999999999999999999999999999999999");
+        mTextView.setSingleLine(true);
+        mTextView.setText("9999999999测试测试测试测试测试999999999999999999999999");
     }
 }
