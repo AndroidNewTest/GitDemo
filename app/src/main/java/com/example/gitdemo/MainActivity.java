@@ -23,10 +23,10 @@ public class MainActivity extends AppCompatActivity {
         mTextView = this.findViewById(R.id.text_view);
         mTextView2.setText("测试测试测试");
         mTextView2.setSingleLine(true);
-        mTextView3.setText("88888888888888888888");
-        mTextView1.setText("99999999999999999999");
+        mTextView3.setText("wwwwwwwwwwwwwwwwwwww");
+        mTextView1.setText("aaaaaaaaaaaaaaaa");
         mTextView.setSingleLine(true);
-        mTextView.setText("0000000000000000000000000");
+        mTextView.setText("zzzzzzzzzzzzzzzzzz");
         mTextView.setTextColor(2222222);
     }
 }
