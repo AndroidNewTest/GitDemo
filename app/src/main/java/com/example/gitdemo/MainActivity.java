@@ -26,7 +26,8 @@ public class MainActivity extends AppCompatActivity {
         mTextView3.setText("wwwwwwwwwwwwwwwwwwww");
         mTextView1.setText("aaaaaaaaaaaaaaaa");
         mTextView.setSingleLine(true);
-        mTextView.setText("zzzzzzzzzzzzzzzzzz");
+        mTextView.setText("0000000000000000000000000");
         mTextView.setTextColor(2222222);
+        mTextView1.setText("测试测试测试");
     }
 }
