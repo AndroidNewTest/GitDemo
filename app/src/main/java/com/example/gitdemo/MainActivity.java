@@ -21,12 +21,12 @@ public class MainActivity extends AppCompatActivity {
         mTextView3 = this.findViewById(R.id.text_view3);
         mTextView2 = this.findViewById(R.id.text_view2);
         mTextView = this.findViewById(R.id.text_view);
-        mTextView1.setText("测试测试测试");
+        mTextView2.setText("测试测试测试");
         mTextView2.setSingleLine(true);
-        mTextView3.setText("77777777777777777777777");
-        mTextView2.setText("6666666666666666666666");
+        mTextView3.setText("88888888888888888888");
+        mTextView1.setText("99999999999999999999");
         mTextView.setSingleLine(true);
-        mTextView.setText("55555555555555555555555");
+        mTextView.setText("0000000000000000000000000");
         mTextView.setTextColor(2222222);
     }
 }
