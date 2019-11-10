@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         mTextView = this.findViewById(R.id.text_view);
         mTextView1.setText("测试测试测试");
         mTextView.setSingleLine(true);
-        mTextView.setText("999999999966666666666666666666666666666999999999999");
+        mTextView.setText("999999999961111116666666666666666666666666666999999999999");
         mTextView.setTextColor(2222222);
     }
 }
